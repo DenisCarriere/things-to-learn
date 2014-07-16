@@ -7,3 +7,6 @@ things-to-learn
 - [TileMill](https://www.mapbox.com/tilemill/docs/crashcourse/introduction/)
 - [FME](http://www.safe.com/)
 - [GeoMedia](http://www.hexagongeospatial.com/products/geomedia/Details.aspx)
+- [Hadoop](http://hadoop.apache.org/)
+- [MapReduce](http://en.wikipedia.org/wiki/MapReduce)
+- [CartoCSS](https://github.com/mapbox/carto)
