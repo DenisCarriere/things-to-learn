@@ -10,3 +10,4 @@ things-to-learn
 - [Hadoop](http://hadoop.apache.org/)
 - [MapReduce](http://en.wikipedia.org/wiki/MapReduce)
 - [CartoCSS](https://github.com/mapbox/carto)
+- [Mapnik](http://wiki.openstreetmap.org/wiki/Mapnik)
