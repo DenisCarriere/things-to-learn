@@ -17,3 +17,6 @@ things-to-learn
 - GSIP (NGA schema)
 - NGIF (Nato schema)
 - PCS (Point, Curves, Surface)
+- [AMU (American Military University)](www.amu.apus.edu/)
+- [KEDCO (Kingston Economic Development)](http://business.kingstoncanada.com/en/)
+- [Coursera](https://www.coursera.org/)
