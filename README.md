@@ -23,6 +23,16 @@
 - [KEDCO (Kingston Economic Development)](http://business.kingstoncanada.com/en/)
 - [Coursera](https://www.coursera.org/)
 
+### 3D Scanning
+
+- [Faro SCENE](http://www.faro.com/products/faro-software/scene-webshare-cloud/overview)
+- [Faro 3D Focus 130/330](http://www.faro.com/products/3d-surveying/laser-scanner-faro-focus-3d/overview)
+- [Faro WebScene](https://www.websharecloud.com/)
+
+### Big Data
+
+- [SAS](http://www.sas.com/en_us/home.html)
+
 ### Map Styling
 
 * [CartoCSS](https://www.mapbox.com/tilemill/docs/manual/carto/)
